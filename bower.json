@@ -1,0 +1,20 @@
+{
+  "name": "SITE OFICIAL",
+  "homepage": "https://github.com/matheusg0m35/criando-um-site-responsivo-do-comeco-ao-fim",
+  "authors": [
+    "Matheus <mattheusg0m35001@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
