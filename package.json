@@ -1,0 +1,18 @@
+{
+  "name": "criando-site-responsivo-do-inicio-ao-fim",
+  "version": "1.0.0",
+  "description": "~/Desktop/SITE OFICIAL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https: //matheusg0m35@bitbucket.org/matheusg0m35/criando-um-site-responsorio-do-inicio-ao-fim.git)"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
